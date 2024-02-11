@@ -7,5 +7,5 @@ background in data science, I've included a variety of examples that demonstrate
 ability to transform and interpret data effectively.
 
 Browse through the folders to view different categories of work. 
-- SQL Daily Challenge (Solve a problem each day)
+- SQL Daily Challenge (Solve a different problem each day)
 - Schema Analyses (Given Schema I provide the best analysis to uncover the data in the schema)
