@@ -1,4 +1,5 @@
--- If count of input records are EVEN then keep as s and if count of input records are ODD then flip the values in column 2
+-- Day 2 
+-- If count of input records are EVEN then keep as is and if count of input records are ODD then flip the values in column 2
 
 
 -- Common Table Expression (CTE) for Ranking and Counting
